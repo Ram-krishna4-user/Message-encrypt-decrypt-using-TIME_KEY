@@ -18,4 +18,4 @@ In this full folder you get 3 files :->
          & then you you need to enter KEY,
          you just have 4 attampt ( line 28 #for i in range(4,0,-1): ) .
 
-   <img width="481" height="780" alt="image" src="https://github.com/user-attachments/assets/67a9500c-2cb7-47e4-a057-07d52c1f69e5" />
+   <img width="281" height="580" alt="image" src="https://github.com/user-attachments/assets/67a9500c-2cb7-47e4-a057-07d52c1f69e5" />
